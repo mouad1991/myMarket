@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{695:function(e){e.exports=JSON.parse('{"image":{"title":"Neue Wege beschreiten.","subtitle":"Eine Mode kann sich zu einem neuen Stil durchsetzen und offenbart die neusten Kreationen von Designern, Technologen, Ingenieuren und Designmanagern.","image":"/assets/full_width_banner.jpg","link":"/women/frauen-20"}}')}}]);
+//# sourceMappingURL=vsf-head-img-banners-de_main-image-json.c89e3b23a0c1ce6ceeee.js.map
